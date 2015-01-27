@@ -1,0 +1,12 @@
+SpektrumSattelite KEYWORD1
+getFrame KEYWORD2
+getChannelValue KEYWORD2
+getThro KEYWORD2
+getAile KEYWORD2
+getElev KEYWORD2
+getRudd KEYWORD2
+getGear KEYWORD2
+getPitc KEYWORD2
+getAux2 KEYWORD2
+getAux3 KEYWORD2
+getAux4 KEYWORD2
